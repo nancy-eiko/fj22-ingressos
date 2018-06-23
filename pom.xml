@@ -150,5 +150,11 @@
             </plugin>
         </plugins>
     </build>
-
+    <!--	restante	omitido...	-->
+    <developers>
+	  <developer>
+		<name>nancy</name>
+		<email>nan@example.com</email>
+	  </developer>
+	</developers>
 </project>
